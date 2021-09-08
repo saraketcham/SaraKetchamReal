@@ -1,0 +1,17 @@
+/* body{
+    background: url(https://images.unsplash.com/photo-1574619151033-a9e1f81cae52?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8NnNNVmpUTFNrZVF8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=60);
+    background-repeat: no-repeat;
+} */
+
+div{
+    background: blue;
+    border: chocolate 20px dashed;
+}
+
+p{
+color: darkkhaki;
+}
+
+span{
+background: crimson;
+}
